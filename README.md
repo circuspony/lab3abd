@@ -2,7 +2,7 @@
 
 Ссылка на Google Colab:
 
-https://drive.google.com/file/d/15zKt-svMefWQeeVGVNERe4aD5qEZ3ho6/view?usp=sharing
+https://drive.google.com/file/d/1Ii3j8PIAJBSy9e1r1mJo67dXVGJFUmED/view?usp=sharing
 
 ## Контрольные вопросы
 
